@@ -7,8 +7,6 @@ import sweeper.Ranges;
 
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
-import java.awt.event.MouseListener;
-import java.awt.image.ImageObserver;
 
 public class JavaSweeper extends JFrame {
 
